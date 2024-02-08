@@ -1,5 +1,7 @@
 # Weather_At_glance
 
+ Netlify Live Link : https://weather-app-ritwik.netlify.app/
+ 
 The Weather Application that I developed utilizing React.js and integrating the OpenWeatherAPI encompasses a comprehensive array of features aimed at delivering a seamless and user-centric experience. This application not only provides accurate weather updates but also adheres to the principles of modern web development, particularly Google's Progressive Web Application (PWA) concepts. This ensures its compatibility across various devices and platforms, guaranteeing that users can access the application effortlessly and enjoy its functionalities regardless of their preferred device.
 
 One of the standout features of this application is its ability to function in offline mode. By utilizing prefetched data, users can access weather information even when they are not connected to the internet. This aspect of offline access not only enhances the convenience factor but also makes the application dependable in situations where consistent connectivity might be a challenge.
@@ -11,3 +13,4 @@ In terms of its weather forecasting capabilities, the application offers a 3-day
 The application also boasts a smart location detection feature. It can automatically identify the user's current location and fetch weather data specific to that location. This removes the need for manual input and ensures that users receive weather updates relevant to their immediate surroundings.
 
 In summation, the Weather Application developed using React.js and integrated with the OpenWeatherAPI is a testament to contemporary web development practices. With its Progressive Web Application approach, offline access capabilities, interactive UI, 3-day forecasting feature, and automatic location detection, the application offers a holistic solution for staying informed about weather conditions while catering to the demands of modern users who expect flexibility, convenience, and functionality in their applications.
+
